@@ -116,7 +116,7 @@ Higher values associated with employee retention:
 
 # Correlation Matrix
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images/correlation-matrix.png)
 
 ---
 
