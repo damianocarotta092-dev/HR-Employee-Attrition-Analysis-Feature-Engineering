@@ -122,7 +122,12 @@ Higher values associated with employee retention:
 
 # Feature Correlation with Attrition
 
-![Feature Correlation with Attrition](images/feature_correlation_attrition.png)
+![Feature Correlation with Attrition](images/barh-correlation.png)
+
+---
+# Feature Correlation with Attrition Highlighted
+
+![Feature Correlation with Attrition Highlighted](images/barh-correlation-highlighted.png)
 
 ---
 
